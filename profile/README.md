@@ -40,10 +40,10 @@ THRYMIUM is the Parent Org for 4 Civilization OS Protocols. Each is a Titan.
 
 | Forge | Protocol | Domain | Repository | Function |
 | :--- | :--- | :--- | :--- | :--- |
-| **I** | **VORXIUM** | Value | [vorxium-os]() | Proof-of-Value Currency. Money equals Verifiable Contribution. Zero-Leak. |
-| **II** | **ZEPHYRION** | Matter | [zephyrion-core]() | Reality OS. Command to Matter. Controls atoms, logistics, energy. |
-| **III** | **KYBERION** | Mind | [kyberion-pantheon]() | God-Fabric. Deploy 1000 God-AI agents. Science, Art, Strategy on-demand. |
-| **IV** | **ONYXARIS** | Time | [onyxaris-forge]() | Time Engine. Simulates 1000 futures per minute. We forge the best timeline. |
+| **I** | **VORXIUM** | Value | [https://github.com/Thrymium-Labs/vorxium-os]() | Proof-of-Value Currency. Money equals Verifiable Contribution. Zero-Leak. |
+| **II** | **ZEPHYRION** | Matter | [https://github.com/Thrymium-Labs/zephyrion-core]() | Reality OS. Command to Matter. Controls atoms, logistics, energy. |
+| **III** | **KYBERION** | Mind | [https://github.com/Thrymium-Labs/kyberion-pantheon]() | God-Fabric. Deploy 1000 God-AI agents. Science, Art, Strategy on-demand. |
+| **IV** | **ONYXARIS** | Time | [https://github.com/Thrymium-Labs/onyxaris-forge]() | Time Engine. Simulates 1000 futures per minute. We forge the best timeline. |
 
 ---
 
